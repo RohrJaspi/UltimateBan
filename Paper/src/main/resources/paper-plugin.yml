@@ -1,0 +1,6 @@
+name: Paper
+version: '1.0'
+main: dev.rohrjaspi.paper.Main
+api-version: '1.21'
+authors: [ rohrjaspi ]
+website: https://rohrjaspi.de
