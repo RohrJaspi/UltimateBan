@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.rohrjaspi</groupId>
-    <artifactId>paper</artifactId>
+    <artifactId>Common</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>paper</name>
+    <name>Common</name>
 
     <properties>
         <java.version>21</java.version>
@@ -67,12 +67,6 @@
             <artifactId>paper-api</artifactId>
             <version>1.21.3-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>dev.rohrjaspi</groupId>
-            <artifactId>common</artifactId>
-            <version>1.0</version>
         </dependency>
     </dependencies>
 </project>

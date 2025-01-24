@@ -1,0 +1,6 @@
+name: Common
+version: '1.0'
+main: dev.rohrjaspi.common.Main
+api-version: '1.21'
+authors: [ rohrjaspi ]
+website: https://rohrjaspi.de
